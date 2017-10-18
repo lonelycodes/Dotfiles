@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/home/watabo/zhaw/topic_modeling/extract_words/out/20min/fr'
+let g:netrw_dirhist_2='/home/watabo'
+let g:netrw_dirhist_3='/home/watabo/.config'
+let g:netrw_dirhist_4='/home/watabo/.config/Atom'
